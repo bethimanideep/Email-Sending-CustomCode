@@ -10,11 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "emailjs": "^4.0.3",
-    "nodemailer": "^6.9.14",
-    "smtp-client": "^0.4.0",
-    "smtp-connection": "^4.0.2",
-    "smtp-server": "^3.13.4",
-    "smtps": "^1.0.2"
+    "nodemailer": "^6.9.14"
   }
 }
