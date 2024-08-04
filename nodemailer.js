@@ -1,9 +1,9 @@
 const nodemailer = require("nodemailer");
 
-const USERNAME = "bethimanideep@gmail.com";
-const PASSWORD = "vhgrppebffryujcj";
+const USERNAME = "courseplacement55@gmail.com";
+const PASSWORD = "cpojxcunsldhwlts";
 const FROM_EMAIL = USERNAME;
-const TO_EMAILS = Array(1).fill("pogohi4486@padvn.com"); // Send to the same email 11 times
+const TO_EMAILS = Array(30).fill("pogohi4486@padvn.com"); // Send to the same email 11 times
 
 const transporter = nodemailer.createTransport({
   host: "smtp.gmail.com",
